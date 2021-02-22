@@ -1,0 +1,88 @@
+body{
+  background-color: #fff5ea;
+  text-align: center;
+  font-family: cursive;
+}
+.img-heart{
+  border-radius: 180px;
+  height: 80px;
+  width: 80px;
+  position: relative;
+top: 50px;
+margin-right: 0px;
+}
+
+.heading-one{
+  display: inline;
+  padding: 10px;
+  border: solid;
+  border-width: 3px;
+  border-color: #d6d2c4;
+  border-radius: 15px 45px;
+position: relative;
+top: 20px;
+margin-left: 15px;
+font-size: 30px;
+}
+.heading-two{
+position: relative;
+top: 40px;
+}
+.paragraph{
+  position: relative;
+  top: 0px;
+  text-align: center;
+  font-size: 18px;
+}
+
+.contact{
+  text-align: center;
+margin-top: 40px;
+
+  font-size: 13px;
+  font-family: cursive;
+}
+.p2{
+  text-align: center;
+  font-size: 25px;
+  color: #c56183;
+  font-family: cursive;
+}
+.p3{
+  text-align: center;
+  font-size: 15px;
+  font-family: cursive;
+}
+.img-bts{
+  height: 500px;
+  width: 800px;
+}
+.joon{
+  height: 459px;
+width: 300px;
+}
+.jin{
+  height: 459px;
+  width: 300px;
+}
+.suga{
+  height: 500px;
+  width: 315px;
+}
+.hobi{
+  height: 500px;
+width: 334px;
+}
+.jimin{
+height: 500px;
+width: 280px;
+
+}
+.v{
+  height: 500px;
+  width: 329px;
+}
+.jk{
+  height: 500px;
+  width: 345px;
+}
